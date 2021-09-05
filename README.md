@@ -109,6 +109,7 @@ MongoDB is Connected...
 - Open a new terminal or powershell and go to client directory and install dependecies
 
 ```bash
+cd .\iotdashboard\
 yarn install
 ```
 
