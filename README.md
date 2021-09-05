@@ -83,7 +83,7 @@ The dashboard shows the following pieces of information:
 - Go to the server directory `./server`:
 
 ```bash
-cd .\server\
+cd .\iotdashboard\server\
 ```
 
 - Install all dependencies for server with yarn
@@ -92,7 +92,7 @@ cd .\server\
 yarn install
 ```
 
-- Start server with yarn
+- Start server with yarn (Ensure Port 8085 is free)
 
 ```bash
 yarn start-server
@@ -109,6 +109,7 @@ MongoDB is Connected...
 - Open a new terminal or powershell and go to client directory and install dependecies
 
 ```bash
+cd .\iotdashboard\
 yarn install
 ```
 
