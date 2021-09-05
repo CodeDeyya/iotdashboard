@@ -83,7 +83,7 @@ The dashboard shows the following pieces of information:
 - Go to the server directory `./server`:
 
 ```bash
-cd .\server\
+cd .\iotdashboard\server\
 ```
 
 - Install all dependencies for server with yarn
