@@ -42,7 +42,7 @@ export default function Header(props) {
       <ElevationScroll {...props}>
         <AppBar className={classes.head}>
           <Toolbar className={classes.root}>
-            <img src={"/logo.png"} height="40px" />
+            <img src={"/logo.png"} height="40px" alt="logo" />
             <Typography>EQUIPMENT DASHBOARD</Typography>
           </Toolbar>
         </AppBar>

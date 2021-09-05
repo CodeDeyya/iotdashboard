@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { css } from "@emotion/react";
 import ScaleLoader from "react-spinners/ScaleLoader";
 import {
@@ -7,7 +7,6 @@ import {
   BarChartContainer,
   Number,
   Bar,
-  Loader,
 } from "../styled-components/styles.js";
 
 const override = css`
