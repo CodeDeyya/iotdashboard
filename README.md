@@ -92,7 +92,7 @@ cd .\iotdashboard\server\
 yarn install
 ```
 
-- Start server with yarn
+- Start server with yarn (Ensure Port 8085 is free)
 
 ```bash
 yarn start-server
