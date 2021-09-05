@@ -1,8 +1,3 @@
-<style>
-img {
-  background-color: white;
-}
-</style>
 
 <p align="center">
     <img width="auto" height="auto" src="https://i.ibb.co/LCjNvpw/logo.jpg" alt="logo" />
